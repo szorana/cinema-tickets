@@ -1,0 +1,23 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<CinemaTickets.Domain.Identity.TicketShopApplicationUser> SignInManager
+@inject UserManager<CinemaTickets.Domain.Identity.TicketShopApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Manage Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container justify-content-md-center">
+    <form method="post" asp-controller="Account" asp-action="ManageRole">
+        <div class="form-group w-25">
+            <p>Update your role:</p>
+            <label class="control-label">User</label>
+            <input class="form-control" type="radio" value="User" name="Role"/>
+            <label class="control-label">Admin</label>
+            <input class="form-control" type="radio" value="Admin" name="Role"/>
+        </div>
+        <hr />
+        <button type="submit" class="btn btn-outline-success">Save</button>
+    </form>
+</div>
+
+

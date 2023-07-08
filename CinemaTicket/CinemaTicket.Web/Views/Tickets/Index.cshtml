@@ -1,0 +1,72 @@
+﻿@model List<CinemaTickets.Domain.Domain.Ticket>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+    <div class="row">
+        @if(User.HasClaim("UserRole", "Admin")){
+            <div class="col">
+                <form asp-controller="Tickets" asp-action="ExportTickets">
+                    <div class="form-group">
+                        <label class="control-label">Export by Genre</label>
+                        <input class="form-control" type="text" name="Genre"/>
+                    </div>
+                    <button type="submit" class="btn btn-outline-primary">Export</button>
+                </form>
+            </div>
+        }
+        <div class="col">
+            <form asp-controller="Tickets" asp-action="FilterByValidDateAfter">
+                <div class="form-group">
+                    <label class="control-label">Search by Valid Date After</label>
+                    <input class="form-control" type="date" name="ValidDate"/>
+                </div>
+                <button type="submit" class="btn btn-outline-primary">Search</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <a class="btn btn-success" asp-action="Create">Insert New Ticket</a>
+    </div>
+    
+       @for (int i = 0; i < Model.Count(); i++)
+       {
+           var item = Model[i];
+
+           if(i % 3 == 0)
+           {
+               @:<div class="row">
+           }
+
+        <div class="col-md-3 m-4">
+            <div class="card" style="width: 18rem; height: 30rem;">
+
+                <div class="card-body">
+                    <h3 class="card-title">@item.MovieName</h3>
+                    <p class="card-text">@item.Genre</p>
+                    <p class="card-text">@item.ValidDate</p>
+                    
+                    
+                    <h6>Price: $@item.Price</h6>
+                </div>
+
+                <div class="card-footer">
+                    <a asp-controller="Tickets" asp-action="AddTicketToCart" asp-route-id="@item.Id" class="btn btn-info">Add to Cart</a>
+                    <a asp-controller="Tickets" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                    <a asp-controller="Tickets" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+
+
+           if(i % 3 == 2)
+           {
+               @:</div>
+           }
+       }
+</div>
