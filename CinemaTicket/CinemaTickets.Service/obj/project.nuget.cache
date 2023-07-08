@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fh7lW8JFl+GAcaDkuMxku7SAVRRBxvqAhehiRmiQuTx6qFBbeofMKcdXA8IfY+CqKrnTPJgPvjAU7p0QVT6CoA==",
+  "dgSpecHash": "Al5m8b76Pnr12/5Dj3snksiV7ZxpX2UODuaiuFjrWS+hm1228bW8n0YG3ueWZ+BqUj0s+tBxTtNcvMItKgMC1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Service\\CinemaTickets.Service.csproj",
+  "projectFilePath": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Service\\CinemaTickets.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zoran\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\zoran\\.nuget\\packages\\mailkit\\4.1.0\\mailkit.4.1.0.nupkg.sha512",

@@ -6465,11 +6465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Service\\CinemaTickets.Service.csproj",
+      "projectUniqueName": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Service\\CinemaTickets.Service.csproj",
       "projectName": "CinemaTickets.Service",
-      "projectPath": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Service\\CinemaTickets.Service.csproj",
+      "projectPath": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Service\\CinemaTickets.Service.csproj",
       "packagesPath": "C:\\Users\\zoran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Service\\obj\\",
+      "outputPath": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zoran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6486,11 +6486,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj": {
-              "projectPath": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj"
+            "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj": {
+              "projectPath": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj"
             },
-            "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTikets.Repository\\CinemaTikets.Repository.csproj": {
-              "projectPath": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTikets.Repository\\CinemaTikets.Repository.csproj"
+            "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTikets.Repository\\CinemaTikets.Repository.csproj": {
+              "projectPath": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTikets.Repository\\CinemaTikets.Repository.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj": {}
+    "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj": {
+    "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj",
         "projectName": "CinemaTickets.Domain",
-        "projectPath": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj",
+        "projectPath": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Domain\\CinemaTickets.Domain.csproj",
         "packagesPath": "C:\\Users\\zoran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zoran\\source\\repos\\cinema-tickets\\CinemaTicket\\CinemaTickets.Domain\\obj\\",
+        "outputPath": "C:\\Users\\zoran\\Source\\Repos\\ct\\CinemaTicket\\CinemaTickets.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zoran\\AppData\\Roaming\\NuGet\\NuGet.Config",
