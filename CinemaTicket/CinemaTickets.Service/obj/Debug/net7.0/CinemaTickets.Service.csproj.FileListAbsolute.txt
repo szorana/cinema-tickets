@@ -1,0 +1,17 @@
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\bin\Debug\net7.0\CinemaTickets.Service.deps.json
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\bin\Debug\net7.0\CinemaTickets.Service.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\bin\Debug\net7.0\CinemaTickets.Service.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\bin\Debug\net7.0\CinemaTickets.Domain.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\bin\Debug\net7.0\CinemaTikets.Repository.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\bin\Debug\net7.0\CinemaTickets.Domain.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\bin\Debug\net7.0\CinemaTikets.Repository.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.csproj.AssemblyReference.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.AssemblyInfoInputs.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.AssemblyInfo.cs
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.csproj.CoreCompileInputs.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.csproj.CopyComplete
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\refint\CinemaTickets.Service.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\CinemaTickets.Service.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Service\obj\Debug\net7.0\ref\CinemaTickets.Service.dll

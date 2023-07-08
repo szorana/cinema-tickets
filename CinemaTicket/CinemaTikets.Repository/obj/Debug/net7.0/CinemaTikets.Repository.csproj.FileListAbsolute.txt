@@ -1,0 +1,15 @@
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\bin\Debug\net7.0\CinemaTikets.Repository.deps.json
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\bin\Debug\net7.0\CinemaTikets.Repository.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\bin\Debug\net7.0\CinemaTikets.Repository.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\bin\Debug\net7.0\CinemaTickets.Domain.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\bin\Debug\net7.0\CinemaTickets.Domain.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.csproj.AssemblyReference.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.AssemblyInfoInputs.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.AssemblyInfo.cs
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.csproj.CoreCompileInputs.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.csproj.CopyComplete
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\refint\CinemaTikets.Repository.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\CinemaTikets.Repository.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTikets.Repository\obj\Debug\net7.0\ref\CinemaTikets.Repository.dll

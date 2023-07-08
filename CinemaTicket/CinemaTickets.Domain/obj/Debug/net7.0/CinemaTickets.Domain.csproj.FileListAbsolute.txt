@@ -1,0 +1,12 @@
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\bin\Debug\net7.0\CinemaTickets.Domain.deps.json
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\bin\Debug\net7.0\CinemaTickets.Domain.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\bin\Debug\net7.0\CinemaTickets.Domain.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\CinemaTickets.Domain.csproj.AssemblyReference.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\CinemaTickets.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\CinemaTickets.Domain.AssemblyInfoInputs.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\CinemaTickets.Domain.AssemblyInfo.cs
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\CinemaTickets.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\CinemaTickets.Domain.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\refint\CinemaTickets.Domain.dll
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\CinemaTickets.Domain.pdb
+C:\Users\zoran\source\repos\cinema-tickets\CinemaTicket\CinemaTickets.Domain\obj\Debug\net7.0\ref\CinemaTickets.Domain.dll
